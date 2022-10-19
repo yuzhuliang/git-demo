@@ -3,6 +3,7 @@
 
 int sum(int i,int j)
 {
-	return 0;
+	int sum = i + j;
+	return sum;
 
 }
