@@ -1,9 +1,7 @@
-
-#include<stdio.h> hot-fix
+// 修改正常
+#include<stdio.h>
 #include<stdlib.h>
->>>>>>> hot-fix
 int sum(int i,int j)
 {
 	return i + j;
-
 }
